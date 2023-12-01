@@ -1,0 +1,2 @@
+# tapsiriq2
+kodlar
